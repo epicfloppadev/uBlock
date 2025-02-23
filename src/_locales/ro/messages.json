@@ -4,7 +4,7 @@
     "description": "extension name."
   },
   "extShortDesc": {
-    "message": "În sfârșit, un blocant eficient. Are un impact mic asupra procesorului și memoriei.",
+    "message": "Un blocant eficient cu un impact mic asupra procesorului și memoriei.",
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
@@ -260,7 +260,7 @@
     "description": ""
   },
   "popup3pFrameRulePrompt": {
-    "message": "cadre din saituri terțe",
+    "message": "cadre din site-uri terțe",
     "description": ""
   },
   "popupHitDomainCountPrompt": {
@@ -416,7 +416,7 @@
     "description": "English: Last restore:"
   },
   "settingsLastBackupPrompt": {
-    "message": "Ultima copie de siguranță:",
+    "message": "Ultima backup:",
     "description": "English: Last backup:"
   },
   "3pListsOfBlockedHostsPrompt": {
@@ -924,7 +924,7 @@
     "description": "First paragraph of 'Questions and support' section in Support pane"
   },
   "supportS3H": {
-    "message": "Probleme cu filtrele/siturile defecte",
+    "message": "Probleme cu filtrele/site-urile defecte",
     "description": "Header of 'Filter issues' section in Support pane"
   },
   "supportS3P1": {
@@ -972,7 +972,7 @@
     "description": "A paragraph in the filter issue reporter section"
   },
   "supportS6P2S2": {
-    "message": "Verificați că problema există și după reîncărcarea paginii.",
+    "message": "Verificați dacă problema există și după reîncărcarea paginii.",
     "description": "A paragraph in the filter issue reporter section"
   },
   "supportS6URL": {
